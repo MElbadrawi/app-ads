@@ -329,3 +329,4 @@ vidoomy.com, 8953515, RESELLER
 xandr.com, 7353, RESELLER
 zetaglobal.net, 525, RESELLER
 zmaticoo.com, 5135195, RESELLER
+facebook.com, 1856884818838811, DIRECT, c3e20eee3f780d68
